@@ -19,8 +19,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GPL 3.0 License][license-shield]][license-url]
+[![Telegram][telegram-shield]][telegram-url]
 
 
 
@@ -100,7 +100,7 @@ To use the bot you only need to know two commands (both do the same):
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Wanna contribute to the project? Great! Please follow the next steps in order to submit any feature or bug-fix :) You can also send me your ideas to my [Telegram](tg://user?id=560110547), any submit is **greatly appreciated**.
+Wanna contribute to the project? Great! Please follow the next steps in order to submit any feature or bug-fix :) You can also send me your ideas to my [Telegram](https://t.me/freshSauce), any submit is **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Telegram: - [@freshSauce](tg://user?id=560110547)
+Telegram: - [@freshSauce](https://t.me/freshSauce)
 
 Project Link: [https://github.com/freshSauce/PriceComparator](https://github.com/freshSauce/PriceComparator)
 
@@ -141,6 +141,6 @@ Project Link: [https://github.com/freshSauce/PriceComparator](https://github.com
 [issues-url]: https://github.com/freshSauce/PriceComparator/issues
 [license-shield]: https://img.shields.io/github/license/freshSauce/PriceComparator.svg?style=for-the-badge
 [license-url]: https://github.com/freshSauce/PriceComparator/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-@freshSauce-black?style=for-the-badge&logo=telegram&colorB=0af
-[linkedin-url]: tg://user?id=560110547
+[telegram-shield]: https://img.shields.io/badge/-@freshSauce-black?style=for-the-badge&logo=telegram&colorB=0af
+[telegram-url]: https://t.me/freshSauce
 [product-screenshot]: images/main.png
