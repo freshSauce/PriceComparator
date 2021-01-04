@@ -132,7 +132,7 @@ def getlastMsg(msg):
 # Función del webhook
 @app.route('/', methods=['POST', 'GET'])
 def index():
-    TGLink = 'https://api.telegram.org/bot1471963759:AAFv_vuBJX0ojcmoZpmB1CFTLVcs88Aues8/sendMessage'
+    TGLink = 'https://api.telegram.org/bot<YOUR_BOT_API_KEY>/sendMessage'
     if request.method == 'POST':
         msg = request.get_json()
 
