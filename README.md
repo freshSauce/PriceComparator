@@ -68,7 +68,7 @@ Let's get to it!
 
 #### Setting up the webhook
 
-To setup te bot's webook you need where to launch the app (Flask) to receive the incoming updates via webhook.
+To setup the bot's webook you need where to launch the app (Flask) to receive the incoming updates via webhook.
 If you already have your host make sure to set your bot's webhook to the host:
 
 ```
