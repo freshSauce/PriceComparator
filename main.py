@@ -190,7 +190,7 @@ Si conoces alguna página que deba ser agregada, o bien, ocurrió algun error co
             except Exception as e:
                    data = {
                         'chat_id':chat_id,
-                        'text':f'Something went wrong while scraping the data: {str(e)}, please, send this message and your input to the script creator.\n\nHubo un Error al obtener la información {str(e)}, por fabor, envía este mensaje y tu input al creador del script.',
+                        'text':f'Something went wrong while scraping the data: {str(e)}, please, send this message and your input to the script creator.\n\nHubo un Error al obtener la información {str(e)}, por favor, envía este mensaje y tu input al creador del script.',
                         'disable_web_page_preview':'true'
                     }
                    r.post(TGLink, data=data)
